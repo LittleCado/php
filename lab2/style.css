@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    background-color: rgb(211, 211, 211);
+}
+
+header{
+    padding: 10px 20px;
+    background-color: rgb(205, 227, 245);
+}
+
+header img{
+    height: 100px;
+}
+
+main{
+    padding-bottom: 100px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+footer{
+    background-color: rgb(205, 227, 245);
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+tr td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.item{
+    display: inline;
+    border: 2px solid red;
+    margin-right: 8px;
+    line-height: 2;
+}
