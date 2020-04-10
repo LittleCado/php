@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    background-color: rgb(228, 228, 228);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    padding: 10px 20px;
+    background-color: rgb(205, 227, 245);
+    position: fixed;
+    width: 100vw;
+    -webkit-box-shadow: 1px 33px 36px -1px rgba(34, 60, 80, 0.1); 
+    -moz-box-shadow: 1px 33px 36px -1px rgba(34, 60, 80, 0.1); 
+    box-shadow: 1px 33px 36px -1px rgba(34, 60, 80, 0.1);
+}
+
+header img{
+    height: 100px;
+}
+
+main{
+    padding-bottom: 120px;
+    padding-left: 50px;
+    padding-top: 120px;
+}
+
+footer{
+    background-color: #fff;
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    -webkit-box-shadow: 1px -19px 36px -1px rgba(34, 60, 80, 0.1); 
+    -moz-box-shadow: 1px -19px 36px -1px rgba(34, 60, 80, 0.1); 
+    box-shadow: 1px -19px 36px -1px rgba(34, 60, 80, 0.1);
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid rgb(47, 63, 212);
+}
+
+tr td{
+    border: 1px solid rgb(49, 87, 211);
+    padding: 5px;
+}
+
+p{
+    color: red;
+    margin: 0;
+}
