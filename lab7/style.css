@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: rgb(211, 211, 211);
+}
+
+header{
+    padding: 10px 20px;
+    background-color: rgb(205, 227, 245);
+}
+
+header img{
+    height: 100px;
+}
+
+main{
+    padding-bottom: 120px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+footer{
+    background-color: #fff;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
